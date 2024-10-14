@@ -21,10 +21,11 @@ Play the demo on Vercel using the following link: [Brick Breaker Space - Demo](h
 
 1. **Custom Assets**:
    - Hand-drawn visuals created using Aseprite.
-   - Unique sprite designs for bricks, paddles, and power-ups.
+   - The ball was originally designed in Unity as a 3D object, with detailed control over light, shadows, and materials. Using a custom script I made, the 3D ball was converted into a 2D image for optimal performance and integration with the rest of the game's assets.
+
 
 2. **Tilemap-Based Level Editor**:
-   - Fast level creation using a custom tilemap editor that converts tiles into independent objects for optimal gameplay.
+   - A custom tilemap editor created by me, allowing for fast level creation. It converts tiles into independent objects, ensuring smooth gameplay by preventing collision issues.
 
 3. **Power-Ups**:
    - Multi-ball: Spawns additional balls to break bricks faster.
@@ -81,4 +82,4 @@ Play the demo on Vercel using the following link: [Brick Breaker Space - Demo](h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Glooring/brick-breaker-space.git
+   git clone https://github.com/Glooring/brick-breaker-space-demo.git
