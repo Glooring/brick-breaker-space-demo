@@ -81,4 +81,4 @@ Play the demo on Vercel using the following link: [Brick Breaker Space - Demo](h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/brick-breaker-space.git
+   git clone https://github.com/Glooring/brick-breaker-space.git
