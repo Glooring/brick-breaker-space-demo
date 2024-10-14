@@ -69,17 +69,6 @@ Play the demo on Vercel using the following link: [Brick Breaker Space - Demo](h
 - **Mobile-Specific Optimizations**: Further optimizing for smoother gameplay on mobile devices.
 - **Score and Leaderboards**: Adding scoring and global leaderboards for competitive play.
 
----
+## License
 
-## Installation and Setup
-
-### Requirements
-
-- Unity Editor (2021.3 or higher recommended)
-- Visual Studio or any preferred code editor
-
-### How to Play Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Glooring/brick-breaker-space-demo.git
+The demo is for viewing purposes only.
