@@ -1,6 +1,6 @@
 # Brick Breaker Space
 
-A space-themed 2D arcade game developed in Unity, inspired by the classic *Brick Breaker Star: Space King*. Control a paddle, bounce the ball, and break all the bricks to progress through procedurally generated levels. This version brings custom assets, power-ups, and smooth gameplay to both desktop and mobile platforms.
+Inspired by the classic *Brick Breaker Star: Space King*, this game lets you control a paddle, bounce the ball, and break all the bricks to progress through procedurally generated levels. This version brings custom assets, power-ups, and smooth gameplay to both desktop and mobile platforms.
 
 ## Demo
 
