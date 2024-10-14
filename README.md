@@ -4,7 +4,7 @@ Inspired by the classic *Brick Breaker Star: Space King*, this game lets you con
 
 ## Demo
 
-Play the demo on Vercel using the following link: [Brick Breaker Space - Demo](https://your-vercel-demo-link.vercel.app)
+Play the demo on Vercel using the following link: [Brick Breaker Space - Demo](https://brick-breaker-space-demo.vercel.app/)
 
 ---
 
